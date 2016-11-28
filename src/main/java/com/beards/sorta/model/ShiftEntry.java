@@ -1,4 +1,4 @@
-package com.beards.sorta;
+package com.beards.sorta.model;
 
 import javax.persistence.Id;
 import java.util.Date;
